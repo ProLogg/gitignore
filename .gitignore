@@ -1,3 +1,6 @@
 new-file.txt
 
 bin/
+
+#Ignore bash file
+*.sh
